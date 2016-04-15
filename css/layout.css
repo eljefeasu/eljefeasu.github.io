@@ -864,7 +864,7 @@ call-to-action .button {
 	color: #fff;
 	background-color: #6991FF;
 }
-#contact button.submit {
+#contact input.submit {
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color:#fff;
@@ -875,8 +875,9 @@ call-to-action .button {
    display: inline-block;
 	border-radius: 3px;
    margin-left: 26%;
+   width: 150px;
 }
-#contact button.submit:hover {
+#contact input.submit:hover {
 	color: #0D0D0D;
 	background: #fff;
 }
