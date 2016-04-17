@@ -140,7 +140,7 @@ header .scrolldown a:hover { color: #6991FF; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #6991FF; }
+.opaque { background-color: #333; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -978,7 +978,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #6991FF;
+    color: #F06000;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
